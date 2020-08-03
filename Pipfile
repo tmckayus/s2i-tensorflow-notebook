@@ -8,12 +8,12 @@ verify_ssl = true
 [packages]
 beautifulsoup4 = "==4.8.*"
 bokeh = ">=2.0"
-cloudpickle = "==1.2.*"
+cloudpickle = "==1.5.*"
 cython = "==0.29.*"
 dask = "*"
 dill = "==0.3.*"
 distributed = "*"
-h5py = "==2.9.*"
+h5py = "==2.10.*"
 ipywidgets = ">=7.5.0"
 jupyter-bokeh = "*"
 jupyter-tensorboard = "*"
@@ -31,4 +31,4 @@ statsmodels = "==0.10.*"
 tensorflow = ">=2.0.0"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
