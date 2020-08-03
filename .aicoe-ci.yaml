@@ -1,0 +1,10 @@
+check:
+  - thoth-precommit
+  - thoth-build
+build:
+  base-image: "quay.io/thoth-station/s2i-minimal-notebook:latest"
+  build-stratergy: Source
+  registry: quay.io
+  registry-org: thoth-station
+  registry-project: s2i-tensorflow-notebook
+  registry-secret: thoth-station-thoth-pusher-secret
