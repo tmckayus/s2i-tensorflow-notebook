@@ -1239,11 +1239,11 @@
         },
         "s3fs": {
             "hashes": [
-                "sha256:2ca5de8dc18ad7ad350c0bd01aef0406aa5d0fff78a561f0f710f9d9858abdd0",
-                "sha256:91c1dfb45e5217bd441a7a560946fe865ced6225ff7eb0fb459fe6e601a95ed3"
+                "sha256:7396943cbc1cf92eb6f7aa93be5f64a3bfa59d76908262e89bae06e3c87fa59d",
+                "sha256:b9415e12e14fab44a67e505017b128ac6a5e63204d74d6622100ae10c764172e"
             ],
             "index": "pypi",
-            "version": "==0.4.2"
+            "version": "==0.5.1"
         },
         "scikit-image": {
             "hashes": [
