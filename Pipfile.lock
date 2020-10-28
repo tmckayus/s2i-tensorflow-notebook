@@ -295,11 +295,11 @@
         },
         "dask": {
             "hashes": [
-                "sha256:47b75b2a86ab1b17c80e26222ba7de02f200fb73e434ed7ea85282ee565e157d",
-                "sha256:638d3901d58b45ba75a07183cc888e5fbc7e6cf21c2ed0d8c78649cc25dac68d"
+                "sha256:4c215aa55951f570b5a294b2ce964ed801c6efd766231c53447460e60f73ea14",
+                "sha256:a1669022e25de99b227c3d83da4801f032415962dac431099bf0534648e41a54"
             ],
             "index": "pypi",
-            "version": "==2.22.0"
+            "version": "==2.30.0"
         },
         "decorator": {
             "hashes": [
