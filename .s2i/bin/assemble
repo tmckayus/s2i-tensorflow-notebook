@@ -15,10 +15,10 @@ jupyter nbextension enable --py widgetsnbextension --sys-prefix
 
 # Activate tensorboard extension
 
-jupyter tensorboard enable --sys-prefix
-jupyter nbextension enable --sys-prefix jupyter_tensorboard/tree
+#jupyter tensorboard enable --sys-prefix
+#jupyter nbextension enable --sys-prefix jupyter_tensorboard/tree
 
-jupyter serverextension enable jupyter_tensorboard --sys-prefix
+#jupyter serverextension enable jupyter_tensorboard --sys-prefix
 
 # Also activate ipywidgets/bokeh extension for JupyterLab.
 
