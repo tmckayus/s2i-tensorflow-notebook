@@ -19,6 +19,7 @@ chardet==3.0.4
 click==7.1.2
 cloudpickle==1.5.0
 contextvars==2.4
+cppy==1.1.0
 cycler==0.10.0
 cython==0.29.21
 dask==2021.1.1
@@ -53,6 +54,7 @@ jsonschema==3.2.0
 jupyter-bokeh==2.0.4
 jupyter-client==6.1.11
 jupyter-core==4.7.1
+jupyter-packaging==0.7.12
 #jupyter-tensorboard==0.2.0
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
@@ -109,6 +111,7 @@ scikit-learn==0.24.1
 scipy==1.5.4
 seaborn==0.11.1
 send2trash==1.5.0
+setuptools-scm==5.0.1
 six==1.15.0
 sortedcontainers==2.3.0
 soupsieve==2.1
@@ -124,6 +127,7 @@ terminado==0.9.2
 testpath==0.4.4
 threadpoolctl==2.1.0
 tifffile==2020.9.3
+toml==0.10.2
 toolz==0.11.1
 tornado==6.1
 traitlets==4.3.3
