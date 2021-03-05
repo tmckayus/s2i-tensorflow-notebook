@@ -28,7 +28,8 @@ defusedxml==0.6.0
 dill==0.3.3
 distributed==2021.1.1
 entrypoints==0.3
-flatbuffers==1.12
+#flatbuffers==1.11
+https://files.pythonhosted.org/packages/4d/c4/7b995ab9bf0c7eaf10c386d29a03408dfcf72648df4102b1f18896c3aeea/flatbuffers-1.12.tar.gz#egg=flatbuffers&cachito_hash=sha256:63bb9a722d5e373701913e226135b28a6f6ac200d5cc7b4d919fa38d73b44610
 fsspec==0.8.5
 gast==0.3.3
 google-auth-oauthlib==0.4.2
