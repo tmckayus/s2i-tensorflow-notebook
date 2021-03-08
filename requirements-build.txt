@@ -184,7 +184,7 @@ notebook==6.2.0
     # via
     #   -r requirements-build.in
     #   nbclassic
-numpy==1.17.3
+numpy==1.16.6
     # via
     #   -r requirements-build.in
     #   scipy
