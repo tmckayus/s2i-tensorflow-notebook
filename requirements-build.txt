@@ -48,6 +48,8 @@ cppy==1.1.0
     # via -r requirements-build.in
 cython==0.29.22
     # via -r requirements-build.in
+dataclasses==0.6
+    # via -r requirements-build.in
 decorator==4.4.2
     # via
     #   -r requirements-build.in
@@ -86,7 +88,7 @@ ipython-genutils==0.2.0
     #   nbformat
     #   notebook
     #   traitlets
-ipython==7.21.0
+ipython==7.16.1
     # via
     #   -r requirements-build.in
     #   ipykernel
@@ -184,7 +186,7 @@ notebook==6.2.0
     # via
     #   -r requirements-build.in
     #   nbclassic
-numpy==1.16.6
+numpy==1.13.3
     # via
     #   -r requirements-build.in
     #   scipy
@@ -308,7 +310,7 @@ tornado==6.1
     #   jupyterlab
     #   notebook
     #   terminado
-traitlets==5.0.5
+traitlets==4.3.3
     # via
     #   -r requirements-build.in
     #   ipykernel
